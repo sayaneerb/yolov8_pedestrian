@@ -1,0 +1,4 @@
+train: C:\Users\sayan\OneDrive\Documents\yolov8_custom\train
+val: C:\Users\sayan\OneDrive\Documents\yolov8_custom\val
+nc: 1
+names: ["pedestrian"]
